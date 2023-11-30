@@ -42,8 +42,8 @@ def karnaughmap(minterms):
     table=list(table)
     top_bin_array=['00', '01', '11', '10']
     left_bin_array=['00', '01', '11', '10']
-    table1=np.append(np.transpose(left_bin_array),table)
-    print(tabulate(table1,headers=top_bin_array))
+    #table1=np.append(np.transpose(left_bin_array),table)
+    print(tabulate(table,headers=top_bin_array))
   
 
     #print("\n array", table)
