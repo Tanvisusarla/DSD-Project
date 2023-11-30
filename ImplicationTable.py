@@ -8,7 +8,7 @@ if nu > 15 :
   raise Exception("Error: enter values in range [0,15]")
 # Below line read inputs from user using map() function
 q= list(map(int, 
-	input("\nEnter the minterms 0-15: ").strip().split()))[:nu]
+	input("\nEnter the min or max terms 0-15: ").strip().split()))[:nu]
 for i in q:
         if i > 15:
           raise Exception("Error: enter values in range [0,15]")
