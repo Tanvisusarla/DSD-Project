@@ -84,5 +84,5 @@ Note- the value for each input prompt must range from 0 to 15.
 
 ## Screenshots
 
-[ImplicationTable output Screenshot-implication.png](https://github.com/Tanvisusarla/DSD-Project/blob/main/Screenshot-implication.png)
+![ImplicationTable output Screenshot-implication.png](https://github.com/Tanvisusarla/DSD-Project/blob/main/Screenshot-implication.png)
 
