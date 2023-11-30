@@ -320,6 +320,6 @@ def karnaughmap(minterms):
 
 print('\n')
 
-minterms=list(map(int,input("Enter terms with in 0 to 15 : ").split())) #input
+minterms=list(map(int,input("Enter terms within 0 to 15 : ").split())) #input
 
 karnaughmap(minterms) #kmap function call
