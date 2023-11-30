@@ -20,7 +20,7 @@ dont_cares = list(map(int,
 	input("\nEnter the dont care terms 0-15: ").strip().split()))[:du]
 
 q.extend(dont_cares)
-print("\nMinterm List is - ", q)
+print("\nThe Min/Maxterm List is - ", q)
 
 
 def bin4(grpn):
